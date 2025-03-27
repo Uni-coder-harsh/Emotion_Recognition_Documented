@@ -1,5 +1,5 @@
 # Create a README file for the project
-readme_content = """
+
 # Emotion Recognition with FER2013 Dataset
 
 ## Project Overview

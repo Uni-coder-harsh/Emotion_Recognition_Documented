@@ -1,4 +1,3 @@
-# Create a README file for the project
 
 # Emotion Recognition with FER2013 Dataset
 
